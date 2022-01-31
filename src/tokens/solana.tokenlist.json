@@ -180,6 +180,20 @@
         "website": "https://cryowar.com"
       }
     },
+
+    {
+      "chainId": 101,
+      "address": "91zL9yioQ2TUtHZ5qxmmzRLnhAmtMz5sUmRNuVJJhHzx",
+      "symbol": "SJ",
+      "name": "sjtoken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/simojibou/logo/main/logo.PNG",
+      "tags": [
+        "social-token"
+      ]
+    },
+
+
     {
       "chainId": 101,
       "address": "BqRtfrNpvRAW3KW319hvhPoTu76wKU2LTdXJyG9CyDze",
