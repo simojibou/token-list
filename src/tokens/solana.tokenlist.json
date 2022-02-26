@@ -95278,6 +95278,21 @@
         "website": "https://www.artifakts.xyz/"
       }
     },
+
+    {
+      "chainId": 101,
+      "address": "91zL9yioQ2TUtHZ5qxmmzRLnhAmtMz5sUmRNuVJJhHzx",
+      "symbol": "SJ",
+      "name": "sjtoken",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/simojibou/logo/main/logo.PNG",
+      "tags": [
+        "social-token"
+      ]
+    },
+
+
+
     {
       "chainId": 101,
       "address": "6xUECSMxSjPGPMzauuCjJGkYgyLYC5UJWpv5en8twhPN",
